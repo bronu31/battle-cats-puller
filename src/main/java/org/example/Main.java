@@ -19,7 +19,9 @@ public class Main {
 
         doc = Jsoup.connect("https://battle-cats.fandom.com"+links[0].toString()).get();
         System.out.println(doc.select("h1.page-header__title"));
-        //System.out.println(doc.select("div>div>div>div>ul>li>a[title*=Empire of Cats]"));
+
+
+
         /*System.out.println(doc.select("div>div>div>div>h3:not(:contains(Outbreaks),:contains(Collaboration)" +
                 ",:contains(Removed),:contains(Nyanko),:contains(Kumanchu)" +
                 ",:contains(Burgle),:contains(Kyoutou),:contains(Pogo))"));
