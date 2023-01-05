@@ -1,0 +1,36 @@
+-------------Empire of Cats-----------
+
+-----------Into the Future--------
+
+-----------Cats of the Cosmos--------
+
+------------The Aku Realms-----------
+
+------------Stories of Legend--------
+
+------------Uncanny Legends------
+
+-----------Event Stages---------
+Le'Grim Strikes: 
+ 
+  Rampage Lv1 (2,500% HP, 1,200% AP)
+  Rampage Lv2 (3,111% HP, 1,344% AP)
+  Rampage Lv3 (3,722% HP, 1,488% AP)
+  Rampage Lv4 (4,333% HP, 1,632% AP)
+  Rampage Lv5 (4,944% HP, 1,776% AP)
+  Rampage Lv6 (5,555% HP, 1,920% AP)
+  Rampage Lv7 (6,166% HP, 2,064% AP)
+  Rampage Lv8 (6,777% HP, 2,208% AP)
+  Rampage Lv9 (7,388% HP, 2,352% AP)
+  Rampage Lv10 (8,000% HP, 2,500% AP)
+  Rampage Lv11 (8,000% HP, 2,500% AP)
+  Rampage Lv12 (8,778% HP, 2,722% AP)
+  Rampage Lv13 (9,556% HP, 2,944% AP)
+  Rampage Lv14 (10,334% HP, 3,166% AP)
+  Rampage Lv15 (11,112% HP, 3,388% AP)
+  Rampage Lv16 (11,890% HP, 3,610% AP)
+  Rampage Lv17 (12,668% HP, 3,832% AP))
+  Rampage Lv18 (13,446% HP, 4,054% AP)
+  Rampage Lv19 (14,224% HP, 4,276% AP)
+  Rampage LvMAX (15,000% HP, 4,500% AP)
+ 

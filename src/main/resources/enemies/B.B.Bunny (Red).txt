@@ -1,0 +1,362 @@
+-------------Empire of Cats-----------
+Stage 32: Greenland
+Stage 35: Bermuda
+Stage 36: Jamaica
+Stage 37: Colombia
+Stage 43: NASA
+Stage 46: Alaska
+Stage 3-48: Moon
+-----------Into the Future--------
+Stage 1-3: China (150%)
+Stage 1-5: Russia (150%)
+Stage 1-8: Denmark (150%)
+Stage 1-13: Italy (200%)
+Stage 1-16: Dubai (300%)
+Stage 1-17: India (300%)
+Stage 1-20: Cambodia (400%)
+Stage 1-22: Singapore (400%)
+Stage 1-27: Saudi Arabia (500%)
+Stage 1-31: South Africa (500%)
+Stage 1-43: New York (600%)
+Stage 1-46: Brazil (600%)
+Stage 2-3: China (400%)
+Stage 2-5: Russia (400%)
+Stage 2-8: Denmark (600%)
+Stage 2-13: Italy (600%)
+Stage 2-16: Dubai (800%)
+Stage 2-17: India (800%)
+Stage 2-20: Cambodia (800%)
+Stage 2-22: Singapore (800%)
+Stage 2-27: Saudi Arabia (1,000%)
+Stage 2-31: South Africa (1,000%)
+Stage 2-43: New York (1,200%)
+Stage 3-3: China (800%)
+Stage 3-5: Russia (800%)
+Stage 3-8: Denmark (1,000%)
+Stage 3-13: Italy (1,000%)
+Stage 3-16: Dubai (1,200%)
+Stage 3-20: Cambodia (1,200%)
+Stage 3-22: Singapore (1,200%)
+Stage 3-31: South Africa (1,500%)
+Stage 3-43: New York (1,800%)
+-----------Cats of the Cosmos--------
+Stage 1-7: Sun (800%)
+Stage 1-9: Neptune (800%)
+Stage 1-12: Red Rectangle (1,000%)
+Stage 1-27: Magellanic (1,200%)
+Stage 1-32: Plumpit (1,200%)
+Stage 2-7: Sun (2,000%)
+Stage 2-12: Red Rectangle (2,000%)
+Stage 2-27: Magellanic (2,200%)
+Stage 2-32: Plumpit (2,400%)
+Stage 3-7: Sun (2,400%)
+Stage 3-21: Aldebaran (2,600%)
+Stage 3-27: Magellanic (2,600%)
+Stage 3-32: Plumpit (2,600%)
+------------The Aku Realms-----------
+Stage 10: Maldives (1,200%)
+Stage 35: New York (2,400%)
+Stage 47: Alaska (4,000%)
+------------Stories of Legend--------
+Stage 3-4: Catechin Hill (400%)
+Stage 4-5: Playing Pirates (400%)
+Stage 4-7: Seaweed Shallows (400%)
+Stage 10-4: Fire Cage (100%)
+Stage 10-6: Flame Caldera (100%)
+Stage 12-4: Poseidon Rest (1,200%)
+Stage 13-5: Caviar Woods (1,200%)
+Stage 13-7: Halibut Forest (1,200%)
+Stage 18-2: Prison Sentence (14,000%)
+Stage 21-3: Red Alert (2,000%)
+Stage 24-1: Her Highness, Milk T. (2,000%)
+Stage 27-1: Sunset's Howl (800%)
+Stage 27-3: Warrior's Dawn (2,800%)
+Stage 31-3: Surviving Herd (2,800%)
+Stage 33-2: Technocracy (3,000%)
+Stage 34-4: Revenant Road (2,800%)
+Stage 35-4: High Watchtower (2,000%)
+Stage 38-3: Deep Sea Dying (2,000%)
+Stage 40-3: Drunken Backrub (3,000%)
+Stage 42-1: Cubist Crimes (100%)
+------------Uncanny Legends------
+Stage 3-3: Playing Bandits (4,000%)
+Stage 4-4: Utsubobo Seamount (4,000%)
+Stage 7-3: Paper Skyscraper (4,000%)
+Stage 8-1: Panic Tower (4,000%)
+Stage 11-2: Pyroclastic Flow (100%, 4,000%)
+Stage 13-1: Iwa Rock Reef (4,000%)
+Stage 25-1: Treadmill Powered (10%, 2,000%)
+Stage 28-1: Flask Hill (100%, 4,000%)
+Stage 28-4: Swamp of Ignorance (4,000%)
+Stage 32-1: Spiralling Ring (4,000%)
+Stage 38-6: Hell's All-Stars (4,000%)
+Stage 40-2: Breathtaking Waves (4,000%)
+Stage 47-4: Infinity Ridge (4,000%)
+-----------Event Stages---------
+Thursday Stage: Sniper Cat (Normal) (100%)
+Loving Labour: Co-workers don't work (100%)
+Jingle Cat Bell: That Song (100%)
+Happy New Year?: Holiday Diet Fail (100%)
+Bears be Bare: Arming Bears (300%)
+Crimson Catastrophe: Attack on R-Cyclone (Expert) (400%, 500%)
+The Crazed Axe: Berserk (Insane) (1,500%)
+The Crazed Cow: Head Shaker (Insane) (100%)
+Teacher! It's Spring!: Lament (200%)
+Love is Sickness: Work or Me! (100%, 200%)
+The Forbidden Bride: 
+ 
+  BGM is "Macarena" (200%)
+  Family Drama Woes (300%)
+  ...No, I Do Not (800%)
+ 
+Never Summer!: 
+ 
+  Summertime Smoothie (200%)
+  Starving in Summer (100%, 200%)
+  Sandbags on the Cape (300%)
+ 
+Ghostly Houseguests: 
+ 
+  Can't pass thru walls? (100%)
+  Just hit the skies! (200%)
+  Wasting inheritance (100%)
+  Grave is just plastic... (400%)
+  I'm not here anymore. (200%)
+ 
+Old Guys About Town: 
+ 
+  Day Job = Boxers (100%)
+  Escaping the Home (100%)
+  Bearhanded Brawler (300%)
+  Living the Dream (400%)
+  Wife Still the Boss (400%)
+ 
+Autumn = Sports Day!: 
+ 
+  Chicken Run (400%)
+  Everyone Wins (400%)
+ 
+Actress Awakens!: Taking the Stage (Insane) (100%)
+Tricycle Awakens!: 
+ 
+  Hell on 3 Wheels (Expert) (300%)
+  Hell on 3 Wheels (Insane) (1,000%)
+ 
+The Battle Cats POP!: Pay Only Once! (300%)
+All Hallows Road: Cosplay Carnival (100%)
+Weds. Blitz Stage: Cat Jobs (Veteran) (800%)
+Jolly St. Nick: 
+ 
+  Reindeer Games (100%)
+  Whipped Cream (150%)
+ 
+Maiden Awakes!: Order Maiden (Expert) (1,200%)
+Koi Awakens!: Carp A Diem (Insane) (1,200%)
+Bride Awakens!: 
+ 
+  Bridal Blues (Expert) (1,000%)
+  Bridal Blues (Insane) (2,000%)
+ 
+Vengeance Awakes!: No Need to Curse! (Expert) (1,000%)
+Salaryman Awakes!: Nine to Five Fever (Expert) (1,000%)
+Growing Red: 
+ 
+  Red Passions (Hard) (400%)
+  Red Passions (Expert) (800%)
+ 
+Summer Diary: 
+ 
+  Candy Apple Dentistry (100%)
+  Backyard BBQ (600%)
+ 
+Cats in the Snow: Buddha of Romance (400%)
+Spring, Sprang, Sprung: Most Ancient (400%)
+Summer Lesson: c² = a² + b² (200%)
+Cavern of Comets: Impact Site (Normal) (100%)
+Crazed Moneko: 
+ 
+  in JAPAN (600%)
+  in THE MOON (2,800%)
+ 
+Never Not Summer!: Lazy Tomorrow (1,000%)
+Old Guys in the City: 
+ 
+  Night Shuffleboard (800%)
+  Twilight Wandering (1,200%)
+  The Wife Still Wins (1,800%)
+ 
+Crimson Vengeance: 
+ 
+  Wrath of R-Cyclone (Insane) (400%, 500%)
+  Revenge of R-Cyclone (Deadly) (2,000%)
+ 
+Sports Night: Inviting Cemetary (600%)
+Worker's Revolution: Maternity Leave Forever (10%, 1,000%)
+A Cultured Festival: Outta Change... (400%)
+Christmas in Space: 
+ 
+  Not-so-Silent Night (10%, 1,200%)
+  Present Hunters (1,500%)
+ 
+Seeing Red: Sands of the East (100%, 1,000%)
+Seeing Red III: Peaks of the South (1,000%)
+Seeing Red ∞: Ruins of the North (1,200%)
+Spring for Sensei: 
+ 
+  Faculty Change (800%)
+  U + Me = Photosynthesis (1,800%)
+ 
+Lovesick Again: Arranged Marriage (1,200%)
+The Battle Cats Together!: Over 350 Cats! (150%)
+Growing Epic: Spectrum of Truth (Deadly) (4,000%)
+Total War: Spring Special: Rites of Spring: Standard (Expert) (600%)
+Total War: Winter Special: Dance of Winter: Supreme (Merciless) (4,000%)
+Most Appearances 2020: Congrats on #5 (100%)
+The Proving Grounds: 
+ 
+  First Round (Easy) (100%)
+  4th Round: Dawn (Veteran) (400%)
+ 
+Wicked Axe: Aku's Nest (1,200%)
+Empress' Report 1: Aku Studies 101: Methods (1,500%)
+Empress' Report 4: Aku Studies 401: Intro (4,000%)
+Q1. Box of Contents Quiz: 
+ 
+  The First Is a Limited Edition Product!? (10%, 100%)
+  Gratitude Included! (150%)
+ 
+Top 5 Most Seen Enemies, 2021!: #4 Blushing (100%)
+The March of Flames: 
+ 
+  Cave of Beginnings (100%)
+  Eastern Sands (600%)
+  Western Wastes (1,200%)
+  Southern Peaks (1,200%)
+  Burning Beach (2,400%)
+  Final Battleground (2,600%)
+ 
+中秋節HAPPY大禮！: Congratulations! Mid-Autumn Festival! (20%)
+Season 2: Heartbeat Festival: Day's End Chime (400%)
+Season 4: Graduation Day: 
+ 
+  Unheard Confession (400%)
+  No Longer Single? (600%)
+ 
+Heavenly Tower: 
+ 
+  Floor 3 (100%)
+  Floor 6 (400%)
+  Floor 11 (400%)
+  Floor 21 (2,400%)
+ 
+Red Citadel: 
+ 
+  Floor 2 (100%)
+  Floor 3 (100%)
+  Floor 4 (150%)
+  Floor 5 (150%)
+  Floor 6 (400%)
+  Floor 7 (600%)
+  Floor 9 (1,200%)
+  Top Floor (300%)
+ 
+Infernal Tower: 
+ 
+  Floor 3 (600%)
+  Floor 6 (1,800%)
+  Floor 11 (2,400%)
+  Floor 21 (4,000%)
+ 
+Suffering Spring!: 
+ 
+  Eggs of Chaos Lv. 1 (100%)
+  Eggs of Chaos Lv. 2 (100%, 230%)
+  Eggs of Chaos Lv. 3 (100%, 360%)
+  Eggs of Chaos Lv. 4 (100%, 490%)
+  Eggs of Chaos Lv. 5 (100%, 600%)
+  Eggs of Chaos Lv. 6 (100%, 840%)
+  Eggs of Chaos Lv. 7 (100%, 1,080%)
+  Eggs of Chaos Lv. 8 (100%, 1,320%)
+  Eggs of Chaos Lv. 9 (100%, 1,560%)
+  Eggs of Chaos Lv. 10 (1,800%)
+ 
+June Gauntlet: 
+ 
+  Forbidden Lv.1 (400%)
+  Forbidden Lv.2 (556%)
+  Forbidden Lv.3 (712%)
+  Forbidden Lv.4 (868%)
+  Forbidden Lv.5 (1,024%)
+  Forbidden Lv.6 (1,180%)
+  Forbidden Lv.7 (1,336%)
+  Forbidden Lv.8 (1,492%)
+  Forbidden Lv.9 (1,648%)
+  Forbidden Lv.10 (1,800%)
+ 
+Summer Break Cats: 
+ 
+  Sundown Chorus (100%)
+  Call to Dinner (100%)
+  Bug Spray Mist (400%)
+  Suntanned Boy (400%)
+ 
+Baron Seal Strikes: 
+ 
+  Cradle Wilderness (Deadly) (1,800%)
+  Frontier Wilderness (Merciless) (2,600%)
+ 
+Festival Nyanko ~Chinese New Year Edition~: 
+ 
+  Loud Firecrackers to Ward off Evil Spirits (100%)
+  Acrobatic Lion Dance (400%)
+ 
+April Gauntlet: 
+ 
+  Teacher! Lv.1 (400%)
+  Teacher! Lv.2 (556%)
+  Teacher! Lv.3 (712%)
+  Teacher! Lv.4 (868%)
+  Teacher! Lv.5 (1,024%)
+  Teacher! Lv.6 (1,180%)
+  Teacher! Lv.7 (1,336%)
+  Teacher! Lv.8 (1,492%)
+  Teacher! Lv.9 (1,648%)
+  Teacher! Lv.10 (1,800%)
+ 
+Season 1: School Days: 
+ 
+  Seated Next to Your Crush (100%)
+  Copied Homework (100%)
+  Studying with Her (400%)
+  Cheater Handsigns (400%)
+ 
+May Gauntlet: 
+ 
+  Sickness Lv.1 (400%)
+  Sickness Lv.2 (556%)
+  Sickness Lv.3 (712%)
+  Sickness Lv.4 (868%)
+  Sickness Lv.5 (1,024%)
+  Sickness Lv.6 (1,180%)
+  Sickness Lv.7 (1,336%)
+  Sickness Lv.8 (1,492%)
+  Sickness Lv.9 (1,648%)
+  Sickness Lv.10 (1,800%)
+ 
+#01 The Ghost Chapel: 
+ 
+  The Biting Priest (100%)
+  A Drowned-Out Speech (150%)
+ 
+Island of Hidden Treasure: 
+ 
+  Crimson Dawn (1,800%)
+  Crimson Refuge (2,000%)
+ 
+Hidden Forest of Gapra: 
+ 
+  Woodlands Area 4 (1,000%)
+  Deep Jungle Area 5 (1,800%)
+  Deep Jungle Area 6 (1,800%)
+  Deep Jungle Area 9 (2,000%)
+ 

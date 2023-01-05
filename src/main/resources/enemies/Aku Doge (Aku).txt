@@ -1,0 +1,229 @@
+-------------Empire of Cats-----------
+
+-----------Into the Future--------
+
+-----------Cats of the Cosmos--------
+
+------------The Aku Realms-----------
+Stage 1: Korea (100%)
+Stage 3: China (100%)
+Stage 4: Thailand (100%)
+Stage 5: Cambodia (100%)
+Stage 7: Japan (100%)
+Stage 8: Australia (100%)
+Stage 10: Maldives (100%)
+Stage 12: Nepal (100%)
+Stage 15: Kenya (100%)
+Stage 16: Madagascar (100%)
+Stage 18: Ghana (100%)
+Stage 19: Sahara (200%)
+Stage 22: Russia (200%)
+Stage 23: Greece (300%)
+Stage 26: Spain (350%)
+Stage 28: Germany (200%)
+Stage 29: Denmark (200%)
+Stage 30: Mount Aku (300%)
+Stage 31: Norway (400%)
+Stage 32: United Kingdom (300%)
+Stage 34: Canada (300%)
+Stage 36: Bermuda (100%, 300%)
+Stage 37: Jamaica (300%)
+Stage 39: Brazil (300%)
+Stage 40: Argentina (300%)
+Stage 45: Las Vegas (400%)
+Stage 47: Alaska (400%)
+Stage 48: Hawaii (400%)
+Stage 49: Moon (400%)
+------------Stories of Legend--------
+
+------------Uncanny Legends------
+Stage 38-1: The Great Sufferer (600%)
+Stage 38-2: Patient Red Fox (600%)
+Stage 38-3: Learned to Hate (600%)
+Stage 38-4: Multiplanar Studios (600%)
+Stage 38-5: Infernal Forces (600%)
+Stage 38-6: Hell's All-Stars (600%)
+Stage 39-1: Aku Altar's Seal (600%)
+Stage 40-4: Breakwater Blood Feud (600%)
+Stage 40-6: Seahorses Caught (600%)
+Stage 41-3: Boiling Blood (600%)
+Stage 41-6: Burning Sunset (600%)
+Stage 43-1: Fountain of Memories (600%)
+Stage 43-2: Chaotic Pulse (600%)
+Stage 43-6: Immortal Zenith (600%)
+Stage 46-2: Stand By Motel (300%, 600%)
+Stage 46-5: Titanic Steakhouse (600%)
+-----------Event Stages---------
+Arcane Confluence: 
+ 
+  Forbidden Archives (100%)
+  Ritual Burns (100%)
+  Otherworld Meadow (200%)
+ 
+Servant of Darkness: 
+ 
+  Dimension Rift (100%)
+  Ultramarine Castle (100%)
+  Dangerous Backwater (200%)
+  Sinister Wasteland (200%)
+ 
+Demon's Park: 
+ 
+  Frozen Wisdom (100%)
+  Cursed Lake (200%)
+  Cave of Magics (200%)
+  Otherworld Forest (200%)
+ 
+Wicked Cat: Cats of Evil (200%)
+Wicked Tank: Demon's Wall (200%)
+Wicked Axe: 
+ 
+  Aku's Nest (200%)
+  The Devil War (400%)
+ 
+The Great Diablo: Wrath of Hell (Deadly) (400%)
+Growing Evil: 
+ 
+  Aku's Murmur (Insane) (300%)
+  Aku's Murmur (Deadly) (300%)
+  Aku's Whisper (Deadly) (300%)
+ 
+Empress' Report 1: 
+ 
+  Aku Studies 101: Intro (400%)
+  Aku Studies 101: Methods (400%)
+  Aku Studies 101: Inquiry (500%)
+ 
+Empress' Report 2: 
+ 
+  Aku Studies 201: Intro (500%)
+  Aku Studies 201: Methods (500%)
+  Aku Studies 201: Field Research (500%)
+ 
+Empress' Report 3: 
+ 
+  Aku Studies 301: Intro (500%)
+  Aku Studies 301: Field Research (500%)
+ 
+Empress' Report 4: Aku Studies 401: Methods (500%)
+Empress' Report 5: Aku Studies 501: Field Research (600%)
+Temptation's Symphony: Aku's Melody (Merciless) (400%)
+Infernal Tower: 
+ 
+  Floor 2 (100%)
+  Floor 7 (400%)
+  Floor 15 (500%)
+  Floor 24 (500%)
+  Floor 29 (600%)
+  Floor 38 (600%)
+ 
+Divine Archangel Strikes: 
+ 
+  Blessing Lv.1 (300%)
+  Blessing Lv.2 (311%)
+  Blessing Lv.3 (322%)
+  Blessing Lv.4 (333%)
+  Blessing Lv.5 (344%)
+  Blessing Lv.6 (355%)
+  Blessing Lv.7 (366%)
+  Blessing Lv.8 (377%)
+  Blessing Lv.9 (388%)
+  Blessing Lv.10 (400%)
+ 
+January Gauntlet II: 
+ 
+  Another Year Lv.11 (200%)
+  Another Year Lv.12 (222%)
+  Another Year Lv.13 (244%)
+  Another Year Lv.14 (266%)
+  Another Year Lv.15 (288%)
+  Another Year Lv.16 (310%)
+  Another Year Lv.17 (332%)
+  Another Year Lv.18 (354%)
+  Another Year Lv.19 (376%)
+  Another Year Lv.MAX (400%)
+ 
+March Gauntlet: 
+ 
+  Be Bare Lv.1 (100%)
+  Be Bare Lv.2 (111%)
+  Be Bare Lv.3 (122%)
+  Be Bare Lv.4 (133%)
+  Be Bare Lv.5 (144%)
+  Be Bare Lv.6 (155%)
+  Be Bare Lv.7 (166%)
+  Be Bare Lv.8 (177%)
+  Be Bare Lv.9 (188%)
+  Be Bare Lv.10 (200%)
+ 
+September Gauntlet: 
+ 
+  About Town Lv.1 (100%)
+  About Town Lv.2 (111%)
+  About Town Lv.3 (122%)
+  About Town Lv.4 (133%)
+  About Town Lv.5 (144%)
+  About Town Lv.6 (155%)
+  About Town Lv.7 (166%)
+  About Town Lv.8 (177%)
+  About Town Lv.9 (188%)
+  About Town Lv.10 (200%)
+ 
+September Gauntlet II: 
+ 
+  In the City Lv.11 (200%)
+  In the City Lv.12 (222%)
+  In the City Lv.13 (244%)
+  In the City Lv.14 (266%)
+  In the City Lv.15 (288%)
+  In the City Lv.16 (310%)
+  In the City Lv.17 (332%)
+  In the City Lv.18 (354%)
+  In the City Lv.19 (376%)
+  In the City Lv.MAX (400%)
+ 
+October Gauntlet II: 
+ 
+  Sports Night Lv.11 (200%)
+  Sports Night Lv.12 (222%)
+  Sports Night Lv.13 (244%)
+  Sports Night Lv.14 (266%)
+  Sports Night Lv.15 (288%)
+  Sports Night Lv.16 (310%)
+  Sports Night Lv.17 (332%)
+  Sports Night Lv.18 (354%)
+  Sports Night Lv.19 (376%)
+  Sports Night Lv.MAX (400%)
+ 
+November Gauntlet II: 
+ 
+  Revolution Lv.11 (200%)
+  Revolution Lv.12 (222%)
+  Revolution Lv.13 (244%)
+  Revolution Lv.14 (266%)
+  Revolution Lv.15 (288%)
+  Revolution Lv.16 (310%)
+  Revolution Lv.17 (332%)
+  Revolution Lv.18 (354%)
+  Revolution Lv.19 (376%)
+  Revolution Lv.MAX (400%)
+ 
+December Gauntlet: 
+ 
+  Jingle Cat Lv.1 (100%)
+  Jingle Cat Lv.2 (111%)
+  Jingle Cat Lv.3 (122%)
+  Jingle Cat Lv.4 (133%)
+  Jingle Cat Lv.5 (144%)
+  Jingle Cat Lv.6 (155%)
+  Jingle Cat Lv.7 (166%)
+  Jingle Cat Lv.8 (177%)
+  Jingle Cat Lv.9 (188%)
+  Jingle Cat Lv.10 (200%)
+ 
+Empress' Excavation 1: 
+ 
+  Archaeology 101: Planning (400%)
+  Archaeology 101: Methods (400%)
+  Archaeology 101: Analysis (500%)
+ 

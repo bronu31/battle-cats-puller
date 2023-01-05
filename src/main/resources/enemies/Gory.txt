@@ -1,0 +1,207 @@
+-------------Empire of Cats-----------
+Stage 16: Madagascar
+Stage 19: Sahara
+Stage 20: Egypt
+Stage 21: Turkey
+Stage 22: Russia
+Stage 24: Italy
+Stage 27: France
+Stage 28: Germany
+Stage 30: Norway
+Stage 33: Canada
+Stage 34: New York
+Stage 38: Brazil
+Stage 39: Argentina
+Stage 40: Machu Picchu
+Stage 42: Mexico
+Stage 45: Hollywood
+Stage 47: Hawaii
+Stage 1-48: Moon
+Stage 3-48: Moon
+-----------Into the Future--------
+Stage 1-3: China (150%)
+Stage 1-10: France (150%)
+Stage 1-16: Dubai (300%)
+Stage 1-18: Nepal (300%)
+Stage 1-26: Kenya (500%)
+Stage 1-34: Machu Picchu (500%)
+Stage 1-39: Las Vegas (600%)
+Stage 1-41: Canada (600%)
+Stage 1-44: NASA (600%)
+Stage 2-3: China (400%)
+Stage 2-10: France (600%)
+Stage 2-16: Dubai (800%)
+Stage 2-18: Nepal (800%)
+Stage 2-26: Kenya (1,000%)
+Stage 2-34: Machu Picchu (1,000%)
+Stage 2-39: Las Vegas (1,200%)
+Stage 2-41: Canada (1,200%)
+Stage 3-3: China (800%)
+Stage 3-10: France (1,000%)
+Stage 3-26: Kenya (1,500%)
+Stage 3-39: Las Vegas (1,800%)
+Stage 3-41: Canada (1,800%)
+-----------Cats of the Cosmos--------
+Stage 1-23: Deneb (1,200%)
+Stage 1-42: Gorigori (1,800%)
+Stage 2-42: Gorigori (2,400%)
+Stage 3-42: Gorigori (4,000%)
+------------The Aku Realms-----------
+
+------------Stories of Legend--------
+Stage 1-6: Gentle Smile (400%, 500%)
+Stage 1-8: Sleeping Lion (400%)
+Stage 2-2: Paella Field (400%)
+Stage 3-3: Isoflavone Cave (400%)
+Stage 3-4: Catechin Hill (400%)
+Stage 3-5: Lycopene Sunset (400%)
+Stage 4-3: Mermaid Cove (400%)
+Stage 4-6: Fisherman's Dilemma (400%)
+Stage 5-1: Lovely Minerals (400%)
+Stage 6-4: Macaroni Town (800%)
+Stage 7-4: Carapaccio Waters (800%)
+Stage 8-1: Prickly Field (800%)
+Stage 8-5: Dumpy Cave (800%)
+Stage 11-2: Gloomy Tree (1,200%)
+Stage 12-3: Octopus Sea (1,200%)
+Stage 12-4: Poseidon Rest (1,200%)
+Stage 12-5: Moonlight Beach (1,200%)
+Stage 13-3: Salmon Cave (1,200%)
+Stage 13-6: Natto Bay (1,200%)
+Stage 14-1: Cardboard Corridor (1,200%)
+Stage 15-4: Dawn of Gaia (1,200%)
+Stage 16-4: Apple Bobbing Ocean (2,000%)
+Stage 17-1: Gull Coast (1,200%)
+Stage 27-3: Warrior's Dawn (2,800%)
+Stage 30-1: Hungry Forest (2,800%)
+Stage 30-2: Overachiever Central (2,800%)
+Stage 32-1: Rinrin Shelterbelt (100%, 6,000%)
+Stage 34-5: Ghostlight Gardens (2,000%)
+------------Uncanny Legends------
+Stage 2-1: Pilaf Field (4,000%)
+Stage 4-1: Marine Town (4,000%)
+Stage 8-5: Morbid Mesa (4,000%)
+Stage 26-5: Meteor Disco (6,000%)
+-----------Event Stages---------
+Wednesday Stage: 
+ 
+  Cat Jobs (Easy) (100%)
+  Cat Jobs (Normal) (100%)
+  Cat Jobs (Hard) (400%)
+ 
+Jingle Cat Bell: 
+ 
+  That Night (100%)
+  That Song (100%)
+ 
+Bears be Bare: 
+ 
+  With a Ton of Padding (200%)
+  Fighting Bearhanded (400%)
+ 
+The Crazed Tank: Absolute Defence (Insane) (4,000%)
+The Crazed Titan: Crazy Cats (Insane) (3,000%)
+Teacher! It's Spring!: 
+ 
+  Cat School Musical (100%)
+  The Catbook (300%)
+ 
+XP Stage/Weekend Stage: 
+ 
+  Sweet XP (Easy) (100%)
+  Sweet XP (Normal) (200%)
+  Sweet XP (Hard) (400%)
+ 
+Love is Sickness: No More Duckface! (100%)
+The Forbidden Bride: 
+ 
+  Wedding Toils (100%)
+  BGM is "Macarena" (200%)
+  Bouquet Finds Water (300%)
+  Family Drama Woes (800%)
+  Ex says I object (200%)
+ 
+Never Summer!: 
+ 
+  Boy Meats Girl (200%)
+  Right here, right meow (200%)
+ 
+Monthly Event All-Stars Special Celebration!: Special Thanks! (Insane) (1,800%)
+Old Guys About Town: 
+ 
+  Escaping the Home (200%)
+  Bearhanded Brawler (300%)
+ 
+Autumn = Sports Day!: Dad, No Videos! (100%)
+The Battle Cats POP!: 
+ 
+  Player VS Player (300%)
+  Conquer the Galaxy (200%)
+ 
+Jolly St. Nick: Coup d'Workshop (400%)
+Auld Lang Syne!: Year's First Dawn! (10%)
+Bride Awakens!: Bridal Blues (Insane) (2,000%)
+Vacation Awakes!: End of Holiday (Expert) (1,200%)
+Kung-Fu X Awakens!: Old Master (Expert) (1,200%)
+Reindeer Fish Awakens!: Reindeer Road (Insane) (2,000%)
+Titan Maniac: Resident Feline (Deadly) (6,000%)
+Summer Diary: 
+ 
+  Squirtgun Warfare (100%)
+  Sparkler Heaven (200%, 400%)
+ 
+Spring, Sprang, Sprung: Bunny Bros. (100%)
+Li'l Titan Awakens!: Tiny Fists (Deadly) (4,500%)
+Nekondo Awakens!: Road to Nekondo Evolution (Normal) (400%)
+Summer Lesson: 
+ 
+  Kids At School (50%)
+  War of the Roses (100%, 400%)
+ 
+Island of Ash: Brushfire (Insane) (1,200%)
+Strait of Wings: Ancient Ruins (Normal) (100%)
+Go Go Graduates!: Demon Drill Sgt (100%)
+Forbidden Bride Pt II: 
+ 
+  Awkward S.O. (1,000%)
+  Family Feuding (1,500%)
+  Show Me The Stars (1,800%)
+ 
+A Cultured Festival: Burnt to Perfection (150%)
+The Battle Cats Together!: 
+ 
+  Play All You Want! (400%)
+  At the Nintendo eShop! (600%)
+ 
+Duel on the Prairie: Elite (Easy) (100%)
+The Proving Grounds: 2nd Round: Dusk (Normal) (100%)
+Q1. Box of Contents Quiz: The Second Brings Good Luck? (400%)
+Q5. Time Luck Quiz: Believe in Your Luck and Proceed! (100%)
+Season 2: Heartbeat Festival: 
+ 
+  No Sleep For Days (100%)
+  Hands on the Check (150%)
+ 
+Season 3: Field Trip: Long-Awaited Trip (100%)
+#02&nbsp;??? the 13th: Foggy Lake Honeymoon (100%)
+Heavenly Tower: 
+ 
+  Floor 4 (100%)
+  Floor 8 (400%)
+ 
+Zombie Citadel: Floor 5 (400%)
+Infernal Tower: 
+ 
+  Floor 4 (400%)
+  Floor 8 (1,800%)
+ 
+Traitless Citadel: 
+ 
+  Floor 1 (100%)
+  Floor 5 (400%)
+ 
+Summer Break Cats: Citronella Scent (150%)
+Season 1: School Days: Furtive Whispers (100%, 150%)
+Duel Stages Challenge: Duel on the Prarie (Elite) (100%)
+Hidden Forest of Gapra: Deep Jungle Area 8 (2,000%)
+Jinfore Volcano: Magma Tunnel Area 3 (1,800%)

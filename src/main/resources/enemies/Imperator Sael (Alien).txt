@@ -1,0 +1,127 @@
+-------------Empire of Cats-----------
+
+-----------Into the Future--------
+Stage 1-16: Dubai (60%)
+Stage 1-21: Philippines (80%)
+Stage 1-24: The Great Abyss (100%)
+Stage 1-27: Saudi Arabia (100%)
+Stage 1-30: Ghana (100%)
+Stage 1-36: Jamaica (100%)
+Stage 1-40: Alaska (100%)
+Stage 1-47: Floating Continent (100%)
+Stage 2-7: United Kingdom (100%)
+Stage 2-16: Dubai (250%)
+Stage 2-21: Philippines (250%)
+Stage 2-27: Saudi Arabia (250%)
+Stage 2-30: Ghana (250%)
+Stage 2-36: Jamaica (250%)
+Stage 2-40: Alaska (250%)
+Stage 2-47: Floating Continent (250%)
+Stage 2-48: Moon (250%)
+Stage 3-7: United Kingdom (500%)
+Stage 3-18: Nepal (500%)
+Stage 3-21: Philippines (500%)
+Stage 3-24: The Great Abyss (600%)
+Stage 3-27: Saudi Arabia (600%)
+Stage 3-30: Ghana (600%)
+Stage 3-36: Jamaica (600%)
+Stage 3-40: Alaska (600%)
+Stage 3-47: Floating Continent (900%)
+Stage 3-48: Moon (1,000%)
+-----------Cats of the Cosmos--------
+Stage 1-7: Sun (250%)
+Stage 1-12: Red Rectangle (250%)
+Stage 1-17: Altair (250%)
+Stage 1-19: Vega (250%)
+Stage 1-24: Cosmic Lounge (500%)
+Stage 1-27: Magellanic (500%)
+Stage 1-40: Titan (600%)
+Stage 2-7: Sun (1,200%)
+Stage 2-12: Red Rectangle (1,200%)
+Stage 2-17: Altair (1,200%)
+Stage 2-19: Vega (1,400%)
+Stage 2-24: Cosmic Lounge (1,400%)
+Stage 2-27: Magellanic (1,200%)
+Stage 2-40: Titan (1,300%)
+Stage 3-19: Vega (1,600%)
+Stage 3-21: Aldebaran (1,800%)
+Stage 3-24: Cosmic Lounge (1,800%)
+Stage 3-27: Magellanic (1,800%)
+Stage 3-40: Titan (1,800%)
+------------The Aku Realms-----------
+Stage 7: Japan (250%)
+Stage 40: Argentina (1,800%)
+------------Stories of Legend--------
+Stage 25-4: Muddy Trench (400%)
+Stage 27-5: Sign of the Cat (1,200%)
+Stage 29-4: Thorny Dialogue (1,800%)
+Stage 40-1: Narrow Docks (1,000%)
+Stage 49-IN: Eldritch Forces Invasion (1,800%)
+------------Uncanny Legends------
+Stage 2-4: Ajillo Highlands (2,400%)
+Stage 14-4: 13th Ward Resident (2,400%)
+Stage 31-2: The Belated Priest (2,400%)
+-----------Event Stages---------
+Growing Blue: Blue Illusion (Hard) (100%)
+Cavern of Comets: Impact Site (Veteran) (100%)
+Crazed Moneko: 
+ 
+  in LONDON (500%)
+  in THE MOON (1,800%)
+ 
+Christmas in Space: 
+ 
+  That's Not Santa... (100%)
+  Present Hunters (600%)
+  Cosmic Xmas (1,000%)
+ 
+Isle of the Map Lord: Compass Mound (Deadly) (1,000%)
+Techneurosis: Space is the Place (Insane) (1,200%)
+Catfruit Buffet: Blue Illusion (Hard) (100%)
+The Proving Grounds: 3rd Round: Dawn (Deadly) (1,400%)
+Season 1: School Days: God Willing Grades (1,000%)
+Alien Citadel: 
+ 
+  Floor 4 (60%)
+  Floor 6 (100%)
+  Floor 7 (100%)
+ 
+March Gauntlet II: 
+ 
+  Be Back Lv.11 (1,000%)
+  Be Back Lv.12 (1,089%)
+  Be Back Lv.13 (1,178%)
+  Be Back Lv.14 (1,267%)
+  Be Back Lv.15 (1,356%)
+  Be Back Lv.16 (1,445%)
+  Be Back Lv.17 (1,534%)
+  Be Back Lv.18 (1,623%)
+  Be Back Lv.19 (1,712%)
+  Be Back Lv.MAX (1,800%)
+ 
+July Gauntlet: 
+ 
+  Summer Lv.1 (50%)
+  Summer Lv.2 (63%)
+  Summer Lv.3 (76%)
+  Summer Lv.4 (100%)
+  Summer Lv.5 (250%)
+  Summer Lv.6 (400%)
+  Summer Lv.7 (550%)
+  Summer Lv.8 (700%)
+  Summer Lv.9 (850%)
+  Summer Lv.10 (1,000%)
+ 
+Big Peng Z Strikes: 
+ 
+  Wandering Lv.1 (1,000%)
+  Wandering Lv.2 (1,156%)
+  Wandering Lv.3 (1,312%)
+  Wandering Lv.4 (1,468%)
+  Wandering Lv.5 (1,624%)
+  Wandering Lv.6 (1,780%)
+  Wandering Lv.7 (1,936%)
+  Wandering Lv.8 (2,092%)
+  Wandering Lv.9 (2,248%)
+  Wandering Lv.10 (2,400%)
+ 

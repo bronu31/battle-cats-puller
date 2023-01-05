@@ -1,0 +1,458 @@
+-------------Empire of Cats-----------
+Stage 2: Mongolia
+Stage 3: China
+Stage 4: Thailand
+Stage 5: Cambodia
+Stage 6: Philippines
+Stage 7: Japan
+Stage 8: Australia
+Stage 9: Singapore
+Stage 10: Maldives
+Stage 11: India
+Stage 12: Nepal
+Stage 13: Dubai
+Stage 14: Saudi Arabia
+Stage 15: Kenya
+Stage 17: South Africa
+Stage 18: Ghana
+Stage 20: Egypt
+Stage 21: Turkey
+Stage 22: Russia
+Stage 25: Monaco
+Stage 27: France
+Stage 28: Germany
+Stage 29: Denmark
+Stage 30: Norway
+Stage 33: Canada
+Stage 34: New York
+Stage 35: Bermuda
+Stage 36: Jamaica
+Stage 37: Colombia
+Stage 39: Argentina
+Stage 40: Machu Picchu
+Stage 42: Mexico
+Stage 43: NASA
+Stage 44: Las Vegas
+-----------Into the Future--------
+Stage 1-1: Japan (150%)
+Stage 1-2: Korea (150%)
+Stage 1-3: China (150%)
+Stage 1-7: United Kingdom (150%)
+Stage 1-11: Spain (150%)
+Stage 1-12: Monaco (200%)
+Stage 1-13: Italy (200%)
+Stage 1-18: Nepal (300%)
+Stage 1-19: Thailand (300%)
+Stage 1-21: Philippines (400%)
+Stage 1-22: Singapore (400%)
+Stage 1-23: Australia (400%)
+Stage 1-24: The Great Abyss (500%)
+Stage 1-26: Kenya (500%)
+Stage 1-28: Egypt (500%)
+Stage 1-29: Sahara (500%)
+Stage 1-32: Argentina (500%)
+Stage 1-36: Jamaica (500%)
+Stage 1-38: Hollywood (600%)
+Stage 1-39: Las Vegas (600%)
+Stage 1-43: New York (600%)
+Stage 1-46: Brazil (600%)
+Stage 2-1: Japan (400%)
+Stage 2-2: Korea (400%)
+Stage 2-3: China (400%)
+Stage 2-7: United Kingdom (600%)
+Stage 2-11: Spain (600%)
+Stage 2-12: Monaco (600%)
+Stage 2-13: Italy (600%)
+Stage 2-18: Nepal (800%)
+Stage 2-21: Philippines (800%)
+Stage 2-22: Singapore (800%)
+Stage 2-23: Australia (800%)
+Stage 2-26: Kenya (1,000%)
+Stage 2-28: Egypt (1,000%)
+Stage 2-29: Sahara (1,000%)
+Stage 2-32: Argentina (1,000%)
+Stage 2-36: Jamaica (1,000%)
+Stage 2-38: Hollywood (1,200%)
+Stage 2-39: Las Vegas (1,200%)
+Stage 2-43: New York (1,200%)
+Stage 2-46: Brazil (1,200%)
+Stage 3-1: Japan (800%)
+Stage 3-2: Korea (800%)
+Stage 3-3: China (800%)
+Stage 3-12: Monaco (1,000%)
+Stage 3-21: Philippines (1,200%)
+Stage 3-22: Singapore (1,200%)
+Stage 3-23: Australia (1,200%)
+Stage 3-29: Sahara (1,500%)
+Stage 3-34: Machu Picchu (1,500%)
+Stage 3-38: Hollywood (1,800%)
+Stage 3-39: Las Vegas (1,800%)
+Stage 3-43: New York (1,800%)
+Stage 3-46: Brazil (1,800%)
+-----------Cats of the Cosmos--------
+Stage 1-2: Mars (600%)
+Stage 1-4: Saturn (800%)
+Stage 1-5: Venus (800%)
+Stage 1-11: Pluto (1,000%)
+Stage 1-43: Broton (1,800%)
+Stage 2-2: Mars (2,000%)
+Stage 2-4: Saturn (2,000%)
+Stage 2-5: Venus (2,000%)
+Stage 2-11: Pluto (3,000%)
+Stage 2-43: Broton (3,000%)
+Stage 3-4: Saturn (3,000%)
+Stage 3-11: Pluto (4,000%)
+Stage 3-43: Broton (4,000%)
+------------The Aku Realms-----------
+Stage 8: Australia (1,200%)
+------------Stories of Legend--------
+Stage 1-1: Earthshaker (200%)
+Stage 1-3: Sunset Blues (400%)
+Stage 1-5: Bouncy Park (400%)
+Stage 1-6: Gentle Smile (400%)
+Stage 1-7: Guardian of the Ranch (400%)
+Stage 1-8: Sleeping Lion (400%)
+Stage 2-1: Nyandalucia (400%)
+Stage 2-2: Paella Field (400%)
+Stage 2-3: Flamenco Hole (400%)
+Stage 2-4: Sangria River (400%)
+Stage 2-5: Gazpacho Highland (400%)
+Stage 2-6: Churros Night (400%)
+Stage 2-7: Bone Dry Gardens (400%)
+Stage 2-8: Tapas Desert (400%)
+Stage 3-1: Chondroitin Sandhill (400%)
+Stage 3-2: Sesamin Ruins (400%)
+Stage 3-4: Catechin Hill (400%)
+Stage 3-5: Lycopene Sunset (400%)
+Stage 3-6: Propolis Oasis (400%)
+Stage 4-1: Premature Launch (400%)
+Stage 4-3: Mermaid Cove (400%)
+Stage 4-5: Playing Pirates (400%)
+Stage 4-6: Fisherman's Dilemma (400%)
+Stage 4-7: Seaweed Shallows (400%)
+Stage 5-1: Lovely Minerals (400%)
+Stage 5-2: Shapely Caverns (400%)
+Stage 5-3: Enticing Tunnels (400%)
+Stage 5-4: Squishy Hollows (400%)
+Stage 6-1: Gunman's Dawn (800%)
+Stage 6-4: Macaroni Town (800%)
+Stage 6-5: Wandering Traveler (800%)
+Stage 6-7: Cowboy Mountain (800%)
+Stage 7-1: Red Tuna Coast (800%)
+Stage 7-4: Carapaccio Waters (800%)
+Stage 7-6: Tactical War Tuna (800%)
+Stage 8-1: Prickly Field (800%)
+Stage 8-3: Serial Killer Jungle (800%)
+Stage 8-4: Disgusting Swamp (1,600%)
+Stage 8-5: Dumpy Cave (800%)
+Stage 8-6: Stardust Street (800%)
+Stage 8-8: Frontier Spirit (800%)
+Stage 9-4: The Wind Blows (800%)
+Stage 9-5: Juvenile Killer (800%)
+Stage 9-6: Upset Rock (800%)
+Stage 10-6: Flame Caldera (800%)
+Stage 11-1: Potential Road (1,200%)
+Stage 11-2: Gloomy Tree (1,200%)
+Stage 11-3: A Song in the Wind (1,200%)
+Stage 11-4: Philosophy Road (1,200%)
+Stage 11-5: Frontier Bell (1,200%)
+Stage 11-6: River of Tears (1,200%)
+Stage 11-7: Shining Road (1,200%)
+Stage 11-8: The Trial Deep (1,200%)
+Stage 12-1: The Sea Whispers (1,200%)
+Stage 12-2: Ripples Island (1,200%)
+Stage 12-4: Poseidon Rest (1,200%)
+Stage 12-5: Moonlight Beach (1,200%)
+Stage 12-6: Coral Coral Reef (1,200%)
+Stage 13-1: Tuna Field (1,200%)
+Stage 13-3: Salmon Cave (1,200%)
+Stage 13-5: Caviar Woods (1,200%)
+Stage 13-6: Natto Bay (1,200%)
+Stage 13-7: Halibut Forest (1,200%)
+Stage 14-1: Cardboard Corridor (1,200%)
+Stage 14-2: Catnip Dream (1,200%)
+Stage 14-3: Crunchy Wall (1,200%)
+Stage 14-4: Wading Woodchips (1,200%)
+Stage 15-1: Altar of Zeus (1,200%)
+Stage 15-4: Dawn of Gaia (1,200%)
+Stage 15-5: Gates of Aphrodite (1,200%)
+Stage 16-1: Clammy Cove (2,000%)
+Stage 16-4: Apple Bobbing Ocean (2,000%)
+Stage 16-5: Parasol Field (2,000%)
+Stage 16-7: Glassy Sands (2,000%)
+Stage 17-1: Gull Coast (100%, 1,200%)
+Stage 17-4: Villains Jungle (1,600%)
+Stage 17-5: Chicken Game (800%)
+Stage 17-6: Cat Trial (1,200%)
+Stage 17-8: Jailer in the Morgue (800%)
+Stage 18-3: Harry Tunnel (1,600%)
+Stage 19-5: Liar's Fate (2,000%)
+Stage 19-6: Pigpen Taboo (100%, 1,600%)
+Stage 20-1: Gandara's Rest (1,600%)
+Stage 21-1: Safe and Not Sorry (2,400%)
+Stage 24-1: Her Highness, Milk T. (2,500%)
+Stage 25-2: Minefield (1,200%)
+Stage 25-6: Sunset Soldier (1,200%)
+Stage 28-5: No More Bad Dreams (100%)
+Stage 31-3: Surviving Herd (2,800%)
+Stage 32-6: Trouble at the Mansion (3,000%)
+Stage 37-3: Beverly Hills Scoop (100%)
+Stage 40-4: Gulag of Love (100%, 3,000%)
+Stage 41-1: Caliban's Keeper (3,000%)
+Stage 42-1: Cubist Crimes (1,000%)
+Stage 44-3: The Noble Tribe (120,000%)
+Stage 49-1: Eldritch Forces (3,000%)
+------------Uncanny Legends------
+Stage 2-1: Pilaf Field (4,000%)
+Stage 2-2: Nyandaria (4,000%)
+Stage 2-4: Ajillo Highlands (4,000%)
+Stage 2-5: Pasta Desert (4,000%)
+Stage 3-1: Kosamin Ruins (4,000%)
+Stage 4-1: Marine Town (4,000%)
+Stage 4-5: Frontier Dawn (4,000%)
+Stage 7-1: Midnight Lycopene (4,000%)
+Stage 7-2: Metroasis (4,000%)
+Stage 7-4: Rogue's Twilight (4,000%)
+Stage 8-4: Hunter's Hills (4,000%)
+Stage 8-5: Morbid Mesa (4,000%)
+Stage 11-5: Raging Caldera (4,000%)
+Stage 12-4: Woods of Resentment (4,000%)
+Stage 15-1: Pulling Hair (4,000%)
+Stage 16-1: Eager Entryway (4,000%)
+Stage 16-4: Tidy Kitchen (4,000%)
+Stage 18-4: Exaggeration Falls (4,000%)
+Stage 20-2: Lonely Goldfish (4,000%)
+Stage 20-5: Bell Collector (4,000%)
+Stage 21-2: Mandatory Fun (4,000%)
+Stage 21-4: Stars in the Sewers (100%, 4,000%)
+Stage 24-1: Authority and Gravity (4,000%)
+Stage 38-5: Infernal Forces (4,000%)
+-----------Event Stages---------
+Monday Stage: 
+ 
+  Rich Cat (Easy) (100%)
+  Rich Cat (Normal) (200%)
+  Rich Cat (Hard) (400%)
+ 
+Tuesday Stage: 
+ 
+  Speed Cat (Easy) (100%)
+  Speed Cat (Normal) (200%)
+  Speed Cat (Hard) (400%)
+ 
+Wednesday Stage: 
+ 
+  Cat Jobs (Easy) (100%)
+  Cat Jobs (Normal) (200%)
+  Cat Jobs (Hard) (400%)
+ 
+Thursday Stage: 
+ 
+  Sniper Cat (Easy) (100%)
+  Sniper Cat (Normal) (200%)
+  Sniper Cat (Hard) (400%)
+ 
+Friday Stage: 
+ 
+  Helpful Cat (Easy) (100%)
+  Helpful Cat (Normal) (200%)
+  Helpful Cat (Hard) (400%)
+ 
+Loving Labour: 
+ 
+  Weeklong Meetings (100%)
+  Co-workers don't work (100%)
+  Stress Relief Stress (100%)
+  Jobs in Jobs Security (200%)
+  Pay without Leave (200%)
+ 
+Jingle Cat Bell: 
+ 
+  That Night (100%)
+  That Song (100%)
+  Warm Stew (100%)
+  Cat &amp; Snow (200%)
+  Part Time Santa (200%)
+ 
+Happy New Year?: 
+ 
+  No Happy Holidays (100%)
+  Holiday Diet Fail (100%)
+  No More Resolutions (100%)
+  Just One More Drink (200%)
+  After After Party (200%)
+  Blackout (200%)
+ 
+Ritual Happiness: 
+ 
+  Angelic Devil (100%)
+  Dracula Donates Blood (100%)
+  My Pet Werewolf (100%)
+  Sunbathing Mummies (200%)
+  Soul Leasing (200%)
+  Lucifer Likes to Smile (200%)
+  Zombies being Healthy (400%)
+ 
+Bears be Bare: 
+ 
+  Bear Grills (100%)
+  Bearly Dressed (100%)
+  With a Ton of Padding (200%)
+  Bees with Ears (200%)
+ 
+The Crazed Cat: Dark Souls (Insane) (4,000%)
+The Crazed Tank: Absolute Defence (Insane) (3,000%)
+The Crazed Gross: Festival Gross (Insane) (3,000%)
+The Crazed Lizard: Mammals? (Insane) (100%, 3,000%)
+Teacher! It's Spring!: 
+ 
+  Cat School Musical (100%)
+  I can feel it (100%)
+  The Catbook (100%)
+  Let's Start Over (400%)
+ 
+XP Stage/Weekend Stage: 
+ 
+  Sweet XP (Easy) (100%)
+  Sweet XP (Normal) (400%)
+  Sweet XP (Hard) (400%)
+  Sweet XP (Veteran) (400%)
+  Sweet XP (Expert) (400%)
+ 
+Love is Sickness: 
+ 
+  Liking Love (100%)
+  No More Duckface! (100%)
+ 
+The Forbidden Bride: 
+ 
+  Wedding Toils (100%)
+  Sending a Friend (100%)
+  BGM is "Macarena" (200%)
+ 
+Never Summer!: Glutton Next Door (100%)
+Ghostly Houseguests: 
+ 
+  Dad's back to haunt us (100%)
+  But we're on vacation (100%)
+ 
+Old Guys About Town: 
+ 
+  Dawn Joggers (100%)
+  Day Job = Boxers (100%)
+ 
+Korean Special Stage: Punchy Prizefighter (75%)
+Happy Birthday! No. 1: Grats! 2 Years!! (100%)
+Happy Birthday! No. 2: Grats! 2 Years!! (100%)
+Happy Birthday! No. 3: Grats! 2 Years!! (100%)
+Kung-Fu Awakens!: Path of Kung-Fu (Expert) (100%)
+Tricycle Awakens!: Hell on 3 Wheels (Expert) (300%)
+Samurai Awakens!: 
+ 
+  Way of the Samurai (Veteran) (800%)
+  Way of the Samurai (Insane) (1,200%)
+ 
+The Battle Cats POP!: 
+ 
+  Poppin' in 3D! (100%)
+  Fight your Friends! (100%)
+  Player VS Player (100%)
+  Pay Only Once! (300%)
+  No I-A-P! (200%)
+  Get Those Ubers (200%)
+ 
+Baozi ★ Q Bomb Strikes: Secret Delicacy (75%)
+Minced Meet-Up: Faster Than Fast Food (75%)
+Jolly St. Nick: 
+ 
+  Coming to Town! (100%)
+  Whipped Cream (150%)
+ 
+Evil Cat Awakes!: Something Wicked (Expert) (1,200%)
+Doll Cats Awake!: Dolled Up (Expert) (1,200%)
+Bride Awakens!: Bridal Blues (Expert) (1,000%)
+Vacation Awakes!: End of Holiday (Insane) (2,000%)
+Sports Day Awakens!: Sweat and Tears (Expert) (800%)
+Salaryman Awakes!: Nine to Five Fever (Insane) (2,000%)
+Reindeer Fish Awakens!: Reindeer Road (Insane) (2,000%)
+Cat Maniac: Deathhawk (Deadly) (4,000%, 8,000%)
+Tank Maniac: Vulcanizer (Deadly) (6,000%)
+Gross Maniac: Muscle Party (Deadly) (3,000%)
+Lizard Maniac: Draconian (Deadly) (100%, 6,000%)
+Summer Diary: Short Shorts (100%)
+Cats in the Snow: Langue de Chat (100%)
+Spring, Sprang, Sprung: 
+ 
+  Season of Rebirth (100%)
+  Bunny Bros. (100%)
+ 
+Li'l Cat Awakens!: Tiny Meows (Deadly) (6,000%)
+The Midas Touch: Gold in a Coal Mine (100%)
+Summer Lesson: Kids At School (100%)
+Cavern of Comets: Impact Site (Normal) (100%)
+Island of Ash: Brushfire (Veteran) (400%)
+Strait of Wings: 
+ 
+  Ancient Ruins (Normal) (100%)
+  Ancient Ruins (Veteran) (400%)
+ 
+Silver Week: No Shame in 2nd (100%)
+Go Go Graduates!: Pencil Launcher (100%)
+A Cultured Festival: 
+ 
+  Meatless Wieners (100%)
+  Always In the Red (400%)
+ 
+The Battle Cats Together!: 
+ 
+  Play Battle Cats Together! (100%)
+  Team Up &amp; Win! (100%)
+  Legend Stages Too! (400%)
+ 
+Most Defeated 2019: As Expected #3 (100%)
+Total War: Fall Special: Feast of Fall: Basic (Insane) (1,200%)
+Most Appearances 2020: #4 As Expected (100%)
+Wafer Cat Advent: Vanilla Flavor 1st Sheet (100%)
+The Proving Grounds: 3rd Round: Dusk (Hard) (150%)
+Q1. Box of Contents Quiz: There Are a Total Of Four Hidden Characters! (100%)
+Q5. Time Luck Quiz: Believe in Your Luck and Proceed! (10%, 100%)
+War on Valentines: Occupy Afterschool (100%)
+Season 2: Heartbeat Festival: 
+ 
+  No Sleep For Days (100%)
+  School Festival Cleanup (400%)
+ 
+Season 3: Field Trip: Long-Awaited Trip (10%, 100%)
+Season 4: Graduation Day: 
+ 
+  Rising Heart Rate (100%)
+  One Brave Step (200%)
+ 
+#02&nbsp;??? the 13th: Foggy Lake Honeymoon (10%, 100%)
+Heavenly Tower: 
+ 
+  Floor 1 (100%)
+  Floor 2 (100%)
+  Floor 8 (400%)
+  Floor 18 (1,800%)
+ 
+Red Citadel: Floor 2 (100%)
+Infernal Tower: 
+ 
+  Floor 2 (400%)
+  Floor 8 (1,800%)
+ 
+Traitless Citadel: Floor 1 (100%)
+Summer Break Cats: Start of Summer (100%)
+Season 1: School Days: 
+ 
+  Desk of Destiny (100%)
+  The Dropped Eraser (100%)
+  Classroom Daydream (200%)
+  Barely Passing (800%)
+ 
+Hidden Forest of Gapra: 
+ 
+  Woodlands Area 1 (400%)
+  Deep Jungle Area 8 (2,000%)
+ 

@@ -1,0 +1,174 @@
+-------------Empire of Cats-----------
+
+-----------Into the Future--------
+
+-----------Cats of the Cosmos--------
+
+------------The Aku Realms-----------
+
+------------Stories of Legend--------
+Stage 9-8: Chubby B. Goode (800%)
+Stage 18-5: Pitfall Zone (100%)
+Stage 18-6: The Great Escaper (100%)
+Stage 19-2: Last Gang (100%)
+Stage 22-4: Torture Room (400%)
+Stage 25-3: Kugel Schreiber (200%)
+Stage 25-6: Sunset Soldier (100%)
+Stage 26-5: Littering Coast (500%)
+Stage 28-6: Learned to Love (100%)
+Stage 31-2: Twilight Poachers (100%)
+Stage 33-3: Merciless Onslaught (4,000%)
+Stage 40-2: Romantic Highway (600%)
+Stage 42-2: Surrealist Sins (4,500%)
+Stage 48-5: False Resurrection (600%)
+------------Uncanny Legends------
+Stage 6-5: Murmuring Evil (800%)
+Stage 10-3: Veggie Friends (5,000%)
+Stage 11-3: Ashen Rain (1,000%)
+Stage 19-2: Forever Fishing (10,000%)
+Stage 21-1: Furry Cavern (10,000%)
+Stage 25-2: Vengeful Sandbag (800%)
+Stage 36-1: The Ivy-Sealed Door (400%)
+Stage 37-6: Hall of the Four Kings (5,000%)
+Stage 38-1: The Great Sufferer (100%)
+Stage 38-3: Learned to Hate (200%)
+Stage 42-3: Ashes Just Ahead (800%)
+Stage 44-5: Shinobi Showdown (5,000%)
+-----------Event Stages---------
+Challenge Battle: Higher Score (100%)
+Bears be Bare: Arming Bears (100%)
+The Crazed Fish: Fish Hell (Insane) (100%)
+Autumn = Sports Day!: Faster Barefoot (100%)
+Dark Descent ∞: Northern Crater (100%)
+Bitter Irony: Revenge of Titanium (Deadly) (100%)
+Bears Be Back: What We Do In The Woods (200%)
+Duel on the Prairie: 
+ 
+  Vanguard (Easy) (1,000%)
+  Elite (Easy) (1,000%)
+  Commander (Easy) (1,000%)
+ 
+Duel at Sunset: 
+ 
+  Vanguard (Normal) (1,000%)
+  Elite (Normal) (1,000%)
+  Commander (Hard) (1,000%)
+ 
+Duel Under the Stars: 
+ 
+  Vanguard (Hard) (1,000%)
+  Elite (Hard) (1,000%)
+  Commander (Veteran) (1,000%)
+ 
+Duel on the Dunes: 
+ 
+  Vanguard (Veteran) (1,000%)
+  Elite (Expert) (1,000%)
+  Commander (Insane) (1,000%)
+ 
+Duel at the Lava Fields: 
+ 
+  Vanguard (Insane) (1,000%)
+  Elite (Deadly) (1,000%)
+  Commander (Deadly) (1,000%)
+ 
+Tag Arena: Rookie: 
+ 
+  Quarterfinals (Easy) (1,000%)
+  Semifinals (Easy) (1,000%)
+  Finals (Easy) (1,000%)
+ 
+Tag Arena: Beginner: 
+ 
+  Quarterfinals (Normal) (1,000%)
+  Semifinals (Hard) (1,000%)
+  Finals (Veteran) (1,000%)
+ 
+Tag Arena: Adept: 
+ 
+  Quarterfinals (Veteran) (1,000%)
+  Semifinals (Veteran) (1,000%)
+  Finals (Expert) (1,000%)
+ 
+Tag Arena: Pro: 
+ 
+  Quarterfinals (Expert) (1,000%)
+  Semifinals (Insane) (1,000%)
+  Finals (Deadly) (1,000%)
+ 
+Tag Arena: Expert: 
+ 
+  Quarterfinals (Deadly) (1,000%)
+  Semifinals (Deadly) (1,000%)
+  Finals (Deadly) (1,000%)
+ 
+Duel Under the Sea: 
+ 
+  Vanguard (Deadly) (1,000%)
+  Elite (Deadly) (1,000%)
+  Commander (Merciless) (1,000%)
+ 
+River City Three-Leg Race ①: 
+ 
+  VS Team White (1,000%)
+  VS Team Red (1,000%)
+  VS Team Black (1,000%)
+ 
+River City Three-Leg Race ②: 
+ 
+  VS Team White (1,000%)
+  VS Team Red (1,000%)
+  VS Team Black (1,000%)
+ 
+River City Three-Leg Race ③: 
+ 
+  VS Team White (1,000%)
+  VS Team Red (1,000%)
+  VS Team Black (100%, 1,000%)
+ 
+Q5. Time Luck Quiz: The Door is Open! Heaven? Hell? (100,000%)
+Cover of Darkness: Western Walk (100%)
+Heavenly Tower: Floor 9 (100%)
+Infernal Tower: Floor 1 (1,000%)
+Duel Stages Challenge: 
+ 
+  Duel on the Prarie (Vanguard) (1,000%)
+  Duel on the Prarie (Elite) (1,000%)
+  Duel on the Prarie (Commander) (1,000%)
+  Duel at Sunset (Vanguard) (1,000%)
+  Duel at Sunset (Elite) (1,000%)
+  Duel at Sunset (Commander) (1,000%)
+  Duel Under the Stars (Vanguard) (1,000%)
+  Duel Under the Stars (Elite) (1,000%)
+  Duel Under the Stars (Commander) (1,000%)
+  Duel on the Dunes (Vanguard) (1,000%)
+  Duel on the Dunes (Elite) (1,000%)
+  Duel on the Dunes (Commander) (1,000%)
+  Duel at the Lava Fields (Vanguard) (1,000%)
+  Duel at the Lava Fields (Elite) (1,000%)
+  Duel at the Lava Fields (Commander) (1,000%)
+  Duel Under the Sea (Vanguard) (1,000%)
+  Duel Under the Sea (Elite) (1,000%)
+  Duel Under the Sea (Commander) (1,000%)
+ 
+Tag Arena Challenge: 
+ 
+  Rookie Quarterfinals (1,000%)
+  Rookie Semifinals (1,000%)
+  Rookie Finals (1,000%)
+  Beginner Quarterfinals (1,000%)
+  Beginner Semifinals (1,000%)
+  Beginner Finals (1,000%)
+  Adept Quarterfinals (1,000%)
+  Adept Semifinals (1,000%)
+  Adept Finals (1,000%)
+  Pro Quarterfinals (1,000%)
+  Pro Semifinals (1,000%)
+  Pro Finals (1,000%)
+  Expert Quarterfinals (1,000%)
+  Expert Semifinals (1,000%)
+  Expert Finals (1,000%)
+  Master Quarterfinals (1,000%)
+  Master Semifinals (1,000%)
+  Master Finals (1,000%)
+ 

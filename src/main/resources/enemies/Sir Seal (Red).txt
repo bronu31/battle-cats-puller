@@ -1,0 +1,331 @@
+-------------Empire of Cats-----------
+Stage 23: Greece
+Stage 26: Spain
+Stage 27: France
+Stage 28: Germany
+Stage 30: Norway
+Stage 32: Greenland
+Stage 33: Canada
+Stage 34: New York
+Stage 39: Argentina
+Stage 40: Machu Picchu
+Stage 42: Mexico
+Stage 43: NASA
+Stage 45: Hollywood
+Stage 47: Hawaii
+Stage 3-48: Moon
+-----------Into the Future--------
+Stage 1-5: Russia (150%)
+Stage 1-8: Denmark (150%)
+Stage 1-12: Monaco (200%)
+Stage 1-21: Philippines (400%)
+Stage 1-24: The Great Abyss (500%)
+Stage 1-26: Kenya (500%)
+Stage 1-30: Ghana (500%)
+Stage 1-31: South Africa (500%)
+Stage 1-40: Alaska (600%)
+Stage 2-5: Russia (400%)
+Stage 2-8: Denmark (600%)
+Stage 2-12: Monaco (600%)
+Stage 2-21: Philippines (800%)
+Stage 2-26: Kenya (1,000%)
+Stage 2-30: Ghana (1,000%)
+Stage 3-5: Russia (800%)
+Stage 3-8: Denmark (1,000%)
+Stage 3-21: Philippines (1,200%)
+Stage 3-24: The Great Abyss (1,500%)
+Stage 3-26: Kenya (1,500%)
+Stage 3-30: Ghana (1,500%)
+-----------Cats of the Cosmos--------
+Stage 1-4: Saturn (800%)
+Stage 1-7: Sun (800%)
+Stage 1-21: Aldebaran (1,000%)
+Stage 1-24: Cosmic Lounge (1,200%)
+Stage 1-32: Plumpit (1,200%)
+Stage 1-40: Titan (1,500%)
+Stage 2-4: Saturn (2,000%)
+Stage 2-7: Sun (2,000%)
+Stage 2-21: Aldebaran (2,200%)
+Stage 2-24: Cosmic Lounge (2,200%)
+Stage 2-32: Plumpit (2,400%)
+Stage 2-40: Titan (2,400%)
+Stage 3-4: Saturn (2,400%)
+Stage 3-24: Cosmic Lounge (2,600%)
+Stage 3-32: Plumpit (2,600%)
+Stage 3-40: Titan (2,600%)
+------------The Aku Realms-----------
+Stage 28: Germany (1,500%)
+Stage 35: New York (2,400%)
+Stage 44: NASA (3,000%)
+------------Stories of Legend--------
+Stage 2-5: Gazpacho Highland (400%)
+Stage 3-7: Peptide Snowfield (400%)
+Stage 4-2: Deep Ocean Blue (400%)
+Stage 4-3: Mermaid Cove (400%)
+Stage 4-6: Fisherman's Dilemma (400%)
+Stage 8-2: Bamboo Coast (1,600%)
+Stage 9-6: Upset Rock (10,000%)
+Stage 10-4: Fire Cage (800%)
+Stage 11-5: Frontier Bell (1,200%)
+Stage 12-7: Ark of the Month (1,200%)
+Stage 13-2: Crab Field (1,200%)
+Stage 13-3: Salmon Cave (1,200%)
+Stage 13-6: Natto Bay (1,200%)
+Stage 16-6: Ancient One-Piece (2,000%)
+Stage 18-4: Dead Falls (1,200%)
+Stage 21-3: Red Alert (2,000%)
+Stage 24-2: Angry Fighting (6,000%)
+Stage 25-4: Muddy Trench (2,000%)
+Stage 27-3: Warrior's Dawn (2,800%)
+Stage 30-3: Morning Rush Hour (2,800%)
+Stage 33-1: Pecking Order (6,000%)
+Stage 40-1: Narrow Docks (1,000%)
+------------Uncanny Legends------
+Stage 5-6: Young Cuttlefish (4,000%)
+Stage 9-4: Seagull Reserve (4,000%)
+Stage 11-2: Pyroclastic Flow (4,000%)
+Stage 17-4: Chilly Pool (4,000%)
+Stage 22-3: Unmoving Conveyer (4,000%)
+Stage 29-4: Defaced Tombstone (4,000%)
+Stage 33-4: Love Refinery (4,000%)
+Stage 36-5: Sappy Underpass (4,000%)
+Stage 47-6: Neverending Footsteps (4,000%)
+-----------Event Stages---------
+Thursday Stage: 
+ 
+  Sniper Cat (Easy) (100%)
+  Sniper Cat (Normal) (600%)
+  Sniper Cat (Hard) (400%)
+ 
+Ritual Happiness: 
+ 
+  Angelic Devil (100%)
+  Dracula Donates Blood (100%)
+  My Pet Werewolf (100%)
+  Humans are Scarier (1,200%)
+ 
+Bears be Bare: 
+ 
+  Bearly Dressed (100%)
+  Can't Bear Anymore (1,200%)
+ 
+Crimson Catastrophe: Attack on R-Cyclone (Expert) (300%)
+The Crazed Axe: Berserk (Insane) (500%)
+Teacher! It's Spring!: 
+ 
+  I can feel it (100%)
+  Lament (800%)
+ 
+Love is Sickness: 
+ 
+  Liking Love (100%)
+  Read but No Reply (100%)
+  Work or Me! (400%)
+ 
+The Forbidden Bride: 
+ 
+  Sending a Friend (100%)
+  Mistook Bride's Name (800%)
+ 
+Never Summer!: 
+ 
+  Glutton Next Door (100%)
+  Summer Already? (100%)
+  Something About Cats (100%)
+  Starving in Summer (200%)
+ 
+Ghostly Houseguests: 
+ 
+  But we're on vacation (100%)
+  Can't pass thru walls? (200%)
+ 
+Old Guys About Town: 
+ 
+  Escaping the Home (200%)
+  Living the Dream (400%)
+ 
+Autumn = Sports Day!: 
+ 
+  Dad, No Videos! (100%)
+  Egg-Glue-Spoon (400%)
+ 
+Tricycle Awakens!: 
+ 
+  Hell on 3 Wheels (Expert) (1,000%)
+  Hell on 3 Wheels (Insane) (2,000%)
+ 
+The Battle Cats POP!: 
+ 
+  Poppin' in 3D! (100%)
+  Pay Only Once! (300%)
+ 
+All Hallows Road: 
+ 
+  Lantern O'Jack (100%)
+  Cosplay Carnival (100%)
+ 
+Weds. Blitz Stage: Cat Jobs (Veteran) (800%)
+Jolly St. Nick: Whipped Cream (150%)
+Maiden Awakes!: Order Maiden (Expert) (1,200%)
+Koi Awakens!: Carp A Diem (Expert) (1,000%)
+Bride Awakens!: Bridal Blues (Insane) (2,000%)
+Vacation Awakes!: End of Holiday (Expert) (1,000%)
+Growing Red: 
+ 
+  Red Passions (Hard) (400%)
+  Red Passions (Expert) (800%)
+ 
+Axe Maniac: Unjust War (Deadly) (2,000%)
+Summer Diary: 
+ 
+  Candy Apple Dentistry (100%)
+  Backyard BBQ (600%)
+ 
+River Styx: Realm of Carnage (Deadly) (2,000%)
+Cats in the Snow: Buddha of Romance (400%)
+Spring, Sprang, Sprung: 
+ 
+  Bunny Bros. (100%)
+  Most Ancient (400%)
+ 
+Summer Lesson: c² = a² + b² (200%)
+Cavern of Comets: Impact Site (Veteran) (400%)
+Crazed Moneko: in THE MOON (2,800%)
+Old Guys in the City: Twilight Wandering (1,200%)
+Crimson Vengeance: Wrath of R-Cyclone (Insane) (300%)
+A Cultured Festival: 
+ 
+  Deep Fried Air (100%)
+  Outta Change... (400%)
+ 
+Seeing Red III: Peaks of the South (10%, 1,000%)
+Seeing Red ∞: Ruins of the North (1,200%)
+River Acheron: Wrath of Carnage (Deadly) (2,000%)
+The Battle Cats Together!: Over 350 Cats! (150%)
+Duel on the Prairie: Elite (Easy) (100%)
+Total War: Fall Special: Feast of Fall: Basic (Insane) (1,200%)
+Tag Arena: Rookie: Semifinals (Easy) (100%)
+Prelude to Ruin: Possessed by Evil (Merciless) (4,000%)
+The Proving Grounds: 4th Round: Dawn (Veteran) (400%)
+The Angel &amp; The Demon: Realm of Carnage (Deadly) (2,000%)
+Arcane Confluence: Ritual Burns (400%)
+Wicked Cat: Devil's Nest (400%)
+River City Three-Leg Race ③: VS Team Red (2,400%)
+Empress' Report 1: Aku Studies 101: Methods (1,500%)
+Empress' Report 5: Aku Studies 501: Inquiry (4,000%)
+Empress' Excavation 2: Archaeology 201: Analysis (4,000%)
+Q1. Box of Contents Quiz: The First Is a Limited Edition Product!? (100%)
+The March of Flames: 
+ 
+  Eastern Sands (400%)
+  Western Wastes (1,200%)
+  Northern Ruins (1,500%)
+  Final Battleground (2,600%)
+ 
+Season 2: Heartbeat Festival: 
+ 
+  Cafe Coworkers (100%)
+  Day's End Chime (400%)
+ 
+Peril in the Volcano: Two Great Shadows (4,000%)
+Heavenly Tower: 
+ 
+  Floor 3 (100%)
+  Floor 29 (6,000%)
+ 
+Red Citadel: 
+ 
+  Floor 2 (100%)
+  Floor 5 (150%)
+  Floor 6 (400%)
+  Floor 8 (1,000%)
+ 
+Infernal Tower: 
+ 
+  Floor 29 (6,000%)
+  Floor 38 (4,000%)
+ 
+June Gauntlet: 
+ 
+  Forbidden Lv.1 (400%)
+  Forbidden Lv.2 (556%)
+  Forbidden Lv.3 (712%)
+  Forbidden Lv.4 (868%)
+  Forbidden Lv.5 (1,024%)
+  Forbidden Lv.6 (1,180%)
+  Forbidden Lv.7 (1,336%)
+  Forbidden Lv.8 (1,492%)
+  Forbidden Lv.9 (1,648%)
+  Forbidden Lv.10 (1,800%)
+ 
+Summer Break Cats: 
+ 
+  Sundown Chorus (100%)
+  Call to Dinner (100%)
+  Bug Spray Mist (400%)
+  Suntanned Boy (400%)
+  Hints of Autumn (1,200%)
+ 
+Baron Seal Strikes: Frontier Wilderness (Merciless) (2,600%)
+Divine Archangel Strikes: 
+ 
+  Blessing Lv.11 (4,000%)
+  Blessing Lv.12 (4,222%)
+  Blessing Lv.13 (4,444%)
+  Blessing Lv.14 (4,666%)
+  Blessing Lv.15 (4,888%)
+  Blessing Lv.16 (5,110%)
+  Blessing Lv.17 (5,332%)
+  Blessing Lv.18 (5,554%)
+  Blessing Lv.19 (5,776%)
+  Blessing Lv.MAX (6,000%)
+ 
+February Gauntlet: 
+ 
+  Happiness Lv.1 (400%)
+  Happiness Lv.2 (522%)
+  Happiness Lv.3 (644%)
+  Happiness Lv.4 (766%)
+  Happiness Lv.5 (888%)
+  Happiness Lv.6 (1,010%)
+  Happiness Lv.7 (1,132%)
+  Happiness Lv.8 (1,254%)
+  Happiness Lv.9 (1,376%)
+  Happiness Lv.10 (1,500%)
+ 
+Festival Nyanko ~Chinese New Year Edition~: 
+ 
+  Celebrate with a Big Fireworks Display (100%)
+  Invite Fortune With an Upside-Down Fortune Decoration (400%)
+ 
+Season 1: School Days: 
+ 
+  Seated Next to Your Crush (100%)
+  Copied Homework (100%)
+  Studying with Her (400%)
+  Cheater Handsigns (400%)
+  Always on my Mind (1,200%)
+ 
+May Gauntlet: 
+ 
+  Sickness Lv.1 (400%)
+  Sickness Lv.2 (522%)
+  Sickness Lv.3 (644%)
+  Sickness Lv.4 (766%)
+  Sickness Lv.5 (888%)
+  Sickness Lv.6 (1,010%)
+  Sickness Lv.7 (1,132%)
+  Sickness Lv.8 (1,254%)
+  Sickness Lv.9 (1,376%)
+  Sickness Lv.10 (1,500%)
+ 
+#01 The Ghost Chapel: 
+ 
+  The Biting Priest (100%)
+  A Drowned-Out Speech (150%)
+ 
+Duel Stages Challenge: Duel on the Prarie (Elite) (100%)
+Tag Arena Challenge: Rookie Semifinals (100%)
+Island of Hidden Treasure: Crimson Dawn (1,800%)
+Hidden Forest of Gapra: Deep Jungle Area 6 (1,000%)
+Ashvini Desert: Burning Sands Area 8 (2,600%)

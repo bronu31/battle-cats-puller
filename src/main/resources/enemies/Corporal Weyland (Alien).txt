@@ -1,0 +1,40 @@
+-------------Empire of Cats-----------
+
+-----------Into the Future--------
+
+-----------Cats of the Cosmos--------
+Stage 1-23: Deneb (100%)
+Stage 1-26: Kaiou (100%)
+Stage 1-29: Moskandag (100%)
+Stage 1-38: Somolon (100%)
+Stage 1-41: Skelling (100%)
+Stage 1-47: Black Hole (100%)
+Stage 2-7: Sun (150%)
+Stage 2-26: Kaiou (250%)
+Stage 2-29: Moskandag (250%)
+Stage 2-41: Skelling (300%)
+Stage 2-47: Black Hole (300%)
+Stage 3-7: Sun (400%)
+Stage 3-10: Canopus (500%)
+Stage 3-29: Moskandag (700%)
+Stage 3-38: Somolon (1,000%)
+Stage 3-41: Skelling (1,100%)
+------------The Aku Realms-----------
+Stage 46: Hollywood (2,500%)
+------------Stories of Legend--------
+Stage 44-1: Eat the Weak (200%)
+Stage 44-5: Electrosafari (200%)
+------------Uncanny Legends------
+Stage 11-6: Supervolcano (400%)
+Stage 14-1: Holiday Atonement (2,500%)
+Stage 20-4: Principal's Rebellion (2,500%)
+Stage 24-3: Raise Your Torches (2,500%)
+Stage 31-5: Chapel Transfer (2,500%)
+Stage 42-1: Speechless Tongues (2,500%)
+Stage 47-3: Warning of the Setting Sun (2,500%)
+-----------Event Stages---------
+Blue Impact: Puffer Planet (Merciless) (2,400%)
+Typhoon Nihil: Extinction's Vortex (Merciless) (2,500%)
+The Proving Grounds: Last Round: Dusk (Merciless) (1,100%)
+Heavenly Tower: Floor 43 (2,500%)
+Infernal Tower: Floor 23 (2,500%)

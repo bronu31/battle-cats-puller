@@ -1,0 +1,55 @@
+-------------Empire of Cats-----------
+
+-----------Into the Future--------
+Stage 1-12: Monaco (50%)
+Stage 1-15: Turkey (50%)
+Stage 1-24: The Great Abyss (100%)
+Stage 1-36: Jamaica (100%)
+Stage 1-45: Bermuda (100%)
+Stage 1-48: Moon (100%)
+Stage 2-12: Monaco (250%)
+Stage 2-15: Turkey (250%)
+Stage 2-36: Jamaica (250%)
+Stage 2-45: Bermuda (250%)
+Stage 3-12: Monaco (500%)
+Stage 3-36: Jamaica (600%)
+Stage 3-45: Bermuda (600%)
+-----------Cats of the Cosmos--------
+Stage 1-2: Mars (250%)
+Stage 1-14: Catseye Nebula (250%)
+Stage 1-25: Sighter's Star (500%)
+Stage 1-31: Soba IV (500%)
+Stage 2-2: Mars (1,200%)
+Stage 2-14: Catseye Nebula (1,200%)
+Stage 2-25: Sighter's Star (1,400%)
+Stage 3-2: Mars (1,600%)
+Stage 3-9: Triton (1,600%)
+Stage 3-14: Catseye Nebula (1,600%)
+------------The Aku Realms-----------
+Stage 20: Egypt (300%)
+------------Stories of Legend--------
+Stage 25-2: Minefield (400%)
+Stage 38-1: Swim Meet (1,600%)
+------------Uncanny Legends------
+Stage 25-1: Treadmill Powered (2,400%)
+-----------Event Stages---------
+Thursday Blitz Stage: Sniper Cat (Veteran) (200%)
+Forbidden Bride Pt II: Double Proposal (600%)
+Christmas in Space: Present Hunters (600%)
+Duel Under the Stars: Elite (Hard) (100%)
+The Proving Grounds: 2nd Round: Dawn (Expert) (100%)
+Heavenly Tower: Floor 5 (40%)
+Infernal Tower: Floor 5 (1,000%)
+July Gauntlet: 
+ 
+  Summer Lv.1 (50%)
+  Summer Lv.2 (63%)
+  Summer Lv.3 (76%)
+  Summer Lv.4 (100%)
+  Summer Lv.5 (250%)
+  Summer Lv.6 (400%)
+  Summer Lv.7 (550%)
+  Summer Lv.8 (700%)
+  Summer Lv.9 (850%)
+  Summer Lv.10 (1,000%)
+ 
